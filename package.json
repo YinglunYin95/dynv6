@@ -1,0 +1,23 @@
+{
+  "name": "dynv6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "bin": "index.js",
+  "pkg": {
+    "targets": [
+      "node16-win-x64"
+    ]
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "os": "^0.1.2",
+    "process": "^0.11.10"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
